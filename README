@@ -1,0 +1,7 @@
+Steps:
+  - Download the zip.
+  - Extract the files into the local directory (I have used Xampp for localserver).
+  - Create a new local Database called square1
+  - Configure the .env archive and insert de username and password
+  - Open Terminal into the directory and make the migrate.
+  - Finally open de browser and execute.
